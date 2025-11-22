@@ -28,11 +28,6 @@ The chatbot uses advanced RAG (Retrieval-Augmented Generation) technology to acc
 - RDSEC API credentials (API endpoint and API key)
 
 
-   ```
-
-4. 
-
-
 ## Usage Guide
 
 **Run the chatbot:**
@@ -117,3 +112,4 @@ Simply start typing your questions or messages. The chatbot will respond to any 
 ## Support
 
 For issues or questions about RDSEC API access, contact your system administrator or visit the RDSEC portal.
+
