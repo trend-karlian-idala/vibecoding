@@ -1,0 +1,12 @@
+chainlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+pypdf
+faiss-cpu
+sentence-transformers
+requests
+python-dotenv
+openai
+docx2txt
